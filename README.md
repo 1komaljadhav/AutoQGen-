@@ -28,7 +28,9 @@ username: fac@gmail.com
 password: Fac@123
 
 ================================================================================
+
 This readme file helps you to work smoothly with the webpage. Follow the steps provided to know the workflow.
+
 ================================================================================
 
 -:index:-
@@ -41,8 +43,10 @@ registration
 
 
 =================================================================================
+
 The quick tour of home page
 When the user opens the website, the home screen is displayed. Home screen includes the general description of the website, the team who designed and developed the website, the contact details where user can put a querry to the developer or designer team using the email,cell phone or address. Also the user can contact personally to any perticular designer or developer using the github or the linked in.
+
 =================================================================================
 
 login page
